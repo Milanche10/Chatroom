@@ -1,4 +1,3 @@
-Evo kompletan `README.md` koji možeš samo da kopiraš u fajl:
 
 ````markdown
 # SecureTalk – Sigurna Messaging i VoIP Aplikacija
@@ -103,3 +102,4 @@ securetalk/
 
 Seminarski rad iz predmeta **Projektovanje i implementacija bezbednosnog softvera**
 Autor: *Milan Jovanović*
+:D
